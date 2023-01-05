@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 5px 5px;
+}
+
+.nav-link {
+  text-decoration: none;
+  margin: 10px 10px;
+}
